@@ -1,4 +1,4 @@
-# InterProt
+# InterProt TEST CHANGES FOR REBUILD 1 From /interprot/endpoints/steer_feature/Dockerfile 12/25/24 6: PM PST
 
 This repo contains tools used to interpret protein language models. `viz` contains the frontend app for visualizing SAE features. `interprot` is a python package containing tools for SAE training and interpretation.
 
